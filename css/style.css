@@ -91,6 +91,7 @@ ol {
 	margin-bottom: 80px;
 	text-align: center;
 	position: relative;
+	background-color: white;
 }
 
 .section-title img {
@@ -175,7 +176,7 @@ ol {
 	padding: 17px 25px;
 	border-radius: 14px;
 	background: #eb2b63;
-	color: #200545;
+	color: white;
 	line-height: 1;
 	cursor: pointer;
 	text-align: center;
@@ -983,7 +984,7 @@ ol {
 }
 
 .footer-top-section {
-	background: #200545;
+	background: white;
 }
 
 .footer-widget .fw-title {
@@ -1087,7 +1088,7 @@ ol {
 
 .copyright {
 	float: left;
-	color: #fff;
+	color: white;
 	font-size: 14px;
 	padding-top: 3px;
 	opacity: 0.25;
